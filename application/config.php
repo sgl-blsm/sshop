@@ -234,4 +234,8 @@ return [
         'var_page'  => 'page',
         'list_rows' => 15,
     ],
+
+    //上传文件的路径配置
+    'upload_goods_image' => ROOT_PATH . 'public' . DS . 'upload' . DS . 'goods',
+
 ];
